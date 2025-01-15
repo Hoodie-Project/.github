@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Welcome to PartyGuam!](https://partyguam.net/)
+[Welcome to PartyGuham!](https://partyguham.com/)
 
 
 <!--
